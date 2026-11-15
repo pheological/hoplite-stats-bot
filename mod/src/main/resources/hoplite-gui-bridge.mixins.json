@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "dev.hoplite.bridge.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["ScreenMixin", "InventoryMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

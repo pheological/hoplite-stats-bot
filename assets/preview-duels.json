@@ -1,0 +1,344 @@
+{
+  "title": "",
+  "items": [
+    {
+      "id": 0,
+      "name": "Go Back",
+      "tooltip": "Go Back"
+    },
+    {
+      "id": 8,
+      "name": "Info",
+      "tooltip": "Info\nHover over each icon to examine each\nstatistic category. The four book icons\nshowcases the stats for these modes:\n Casual\n Competitive\n Custom\n Private\n\nThe icons below display kit-specific\nstatistics."
+    },
+    {
+      "id": 11,
+      "name": "Kit Stats",
+      "tooltip": "Kit Stats\nGames Played: 18\nWins: 17\nLosses: 1\nPlaytime: 00:00:17:15\n\nKills: 17\nDeaths: 1\n\nW/L Ratio: 17.0\nK/D Ratio: 17.0\n\nCurrent Winstreak: 6\nBest Winstreak: 11\n\nOverall | 1v1 | 2v2\n\n | Click to Toggle"
+    },
+    {
+      "id": 12,
+      "name": "Competitive Stats",
+      "tooltip": "Competitive Stats\nGames Played: 11\nWins: 9\nLosses: 2\nPlaytime: 00:00:40:23\n\nKills: 13\nDeaths: 7\n\nW/L Ratio: 4.5\nK/D Ratio: 1.86\n\nCurrent Winstreak: 1\nBest Winstreak: 7"
+    },
+    {
+      "id": 14,
+      "name": "Custom Kit Stats",
+      "tooltip": "Custom Kit Stats\nGames Played: 1\nWins: 1\nLosses: 0\nPlaytime: 00:00:01:59\n\nKills: 1\nDeaths: 0\n\nW/L Ratio: 1.0\nK/D Ratio: 1.0\n\nCurrent Winstreak: 1\nBest Winstreak: 1"
+    },
+    {
+      "id": 15,
+      "name": "Private Stats",
+      "tooltip": "Private Stats\nGames Played: 2\nWins: 1\nLosses: 1\nPlaytime: 00:00:04:46\n\nKills: 1\nDeaths: 3\n\nW/L Ratio: 1.0\nK/D Ratio: 0.33\n\nCurrent Winstreak: 0\nBest Winstreak: 1"
+    },
+    {
+      "id": 29,
+      "name": "Sword Stats",
+      "tooltip": "Sword Stats\nGames Played: 3\nWins: 3\nLosses: 0\nPlaytime: 00:00:01:46\n\nKills: 3\nDeaths: 0\n\nW/L Ratio: 3.0\nK/D Ratio: 3.0\n\nCurrent Winstreak: 3\nBest Winstreak: 3"
+    },
+    {
+      "id": 30,
+      "name": "Battle Royale Stats",
+      "tooltip": "Battle Royale Stats\nGames Played: 14\nWins: 14\nLosses: 0\nPlaytime: 00:00:15:23\n\nKills: 14\nDeaths: 0\n\nW/L Ratio: 14.0\nK/D Ratio: 14.0\n\nCurrent Winstreak: 14\nBest Winstreak: 14"
+    },
+    {
+      "id": 31,
+      "name": "Axe Stats",
+      "tooltip": "Axe Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0"
+    },
+    {
+      "id": 32,
+      "name": "Crystal Stats",
+      "tooltip": "Crystal Stats\nGames Played: 1\nWins: 0\nLosses: 1\nPlaytime: 00:00:00:06\n\nKills: 0\nDeaths: 1\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0"
+    },
+    {
+      "id": 33,
+      "name": "NetherPot Stats",
+      "tooltip": "NetherPot Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0"
+    },
+    {
+      "id": 38,
+      "name": "Mace Stats",
+      "tooltip": "Mace Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0"
+    },
+    {
+      "id": 39,
+      "name": "UHC Stats",
+      "tooltip": "UHC Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0"
+    },
+    {
+      "id": 40,
+      "name": "Parkour Stats",
+      "tooltip": "Parkour Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0"
+    },
+    {
+      "id": 41,
+      "name": "Bridge Stats",
+      "tooltip": "Bridge Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0"
+    },
+    {
+      "id": 42,
+      "name": "Sumo Stats",
+      "tooltip": "Sumo Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0"
+    }
+  ],
+  "text": "Hoplite Duels Stats\n\n[Slot 0] Go Back\nGo Back\n\n[Slot 8] Info\nInfo\nHover over each icon to examine each\nstatistic category. The four book icons\nshowcases the stats for these modes:\n Casual\n Competitive\n Custom\n Private\n\nThe icons below display kit-specific\nstatistics.\n\n[Slot 11] Kit Stats\nKit Stats\nGames Played: 18\nWins: 17\nLosses: 1\nPlaytime: 00:00:17:15\n\nKills: 17\nDeaths: 1\n\nW/L Ratio: 17.0\nK/D Ratio: 17.0\n\nCurrent Winstreak: 6\nBest Winstreak: 11\n\nOverall | 1v1 | 2v2\n\n | Click to Toggle\n\n[Slot 12] Competitive Stats\nCompetitive Stats\nGames Played: 11\nWins: 9\nLosses: 2\nPlaytime: 00:00:40:23\n\nKills: 13\nDeaths: 7\n\nW/L Ratio: 4.5\nK/D Ratio: 1.86\n\nCurrent Winstreak: 1\nBest Winstreak: 7\n\n[Slot 14] Custom Kit Stats\nCustom Kit Stats\nGames Played: 1\nWins: 1\nLosses: 0\nPlaytime: 00:00:01:59\n\nKills: 1\nDeaths: 0\n\nW/L Ratio: 1.0\nK/D Ratio: 1.0\n\nCurrent Winstreak: 1\nBest Winstreak: 1\n\n[Slot 15] Private Stats\nPrivate Stats\nGames Played: 2\nWins: 1\nLosses: 1\nPlaytime: 00:00:04:46\n\nKills: 1\nDeaths: 3\n\nW/L Ratio: 1.0\nK/D Ratio: 0.33\n\nCurrent Winstreak: 0\nBest Winstreak: 1\n\n[Slot 29] Sword Stats\nSword Stats\nGames Played: 3\nWins: 3\nLosses: 0\nPlaytime: 00:00:01:46\n\nKills: 3\nDeaths: 0\n\nW/L Ratio: 3.0\nK/D Ratio: 3.0\n\nCurrent Winstreak: 3\nBest Winstreak: 3\n\n[Slot 30] Battle Royale Stats\nBattle Royale Stats\nGames Played: 14\nWins: 14\nLosses: 0\nPlaytime: 00:00:15:23\n\nKills: 14\nDeaths: 0\n\nW/L Ratio: 14.0\nK/D Ratio: 14.0\n\nCurrent Winstreak: 14\nBest Winstreak: 14\n\n[Slot 31] Axe Stats\nAxe Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0\n\n[Slot 32] Crystal Stats\nCrystal Stats\nGames Played: 1\nWins: 0\nLosses: 1\nPlaytime: 00:00:00:06\n\nKills: 0\nDeaths: 1\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0\n\n[Slot 33] NetherPot Stats\nNetherPot Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0\n\n[Slot 38] Mace Stats\nMace Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0\n\n[Slot 39] UHC Stats\nUHC Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0\n\n[Slot 40] Parkour Stats\nParkour Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0\n\n[Slot 41] Bridge Stats\nBridge Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0\n\n[Slot 42] Sumo Stats\nSumo Stats\nGames Played: 0\nWins: 0\nLosses: 0\nPlaytime: 00:00:00:00\n\nKills: 0\nDeaths: 0\n\nW/L Ratio: 0.0\nK/D Ratio: 0.0\n\nCurrent Winstreak: 0\nBest Winstreak: 0",
+  "groups": {
+    "overall": [
+      {
+        "name": "Overall",
+        "sourceSlot": 11,
+        "kind": "mode",
+        "gamesPlayed": 18,
+        "wins": 17,
+        "losses": 1,
+        "playtimeSeconds": 1035,
+        "kills": 17,
+        "deaths": 1,
+        "reportedWinLossRatio": 17,
+        "reportedKillDeathRatio": 17,
+        "winStreak": 6,
+        "bestWinStreak": 11,
+        "winRate": 94.44444444444444,
+        "winLossRatio": 17,
+        "killDeathRatio": 17
+      },
+      {
+        "name": "Competitive",
+        "sourceSlot": 12,
+        "kind": "mode",
+        "gamesPlayed": 11,
+        "wins": 9,
+        "losses": 2,
+        "playtimeSeconds": 2423,
+        "kills": 13,
+        "deaths": 7,
+        "reportedWinLossRatio": 4.5,
+        "reportedKillDeathRatio": 1.86,
+        "winStreak": 1,
+        "bestWinStreak": 7,
+        "winRate": 81.81818181818183,
+        "winLossRatio": 4.5,
+        "killDeathRatio": 1.8571428571428572
+      },
+      {
+        "name": "Custom",
+        "sourceSlot": 14,
+        "kind": "mode",
+        "gamesPlayed": 1,
+        "wins": 1,
+        "losses": 0,
+        "playtimeSeconds": 119,
+        "kills": 1,
+        "deaths": 0,
+        "reportedWinLossRatio": 1,
+        "reportedKillDeathRatio": 1,
+        "winStreak": 1,
+        "bestWinStreak": 1,
+        "winRate": 100,
+        "winLossRatio": "∞",
+        "killDeathRatio": 1
+      },
+      {
+        "name": "Private",
+        "sourceSlot": 15,
+        "kind": "mode",
+        "gamesPlayed": 2,
+        "wins": 1,
+        "losses": 1,
+        "playtimeSeconds": 286,
+        "kills": 1,
+        "deaths": 3,
+        "reportedWinLossRatio": 1,
+        "reportedKillDeathRatio": 0.33,
+        "winStreak": 0,
+        "bestWinStreak": 1,
+        "winRate": 50,
+        "winLossRatio": 1,
+        "killDeathRatio": 0.3333333333333333
+      }
+    ],
+    "kits": [
+      {
+        "name": "Sword",
+        "sourceSlot": 29,
+        "kind": "kit",
+        "gamesPlayed": 3,
+        "wins": 3,
+        "losses": 0,
+        "playtimeSeconds": 106,
+        "kills": 3,
+        "deaths": 0,
+        "reportedWinLossRatio": 3,
+        "reportedKillDeathRatio": 3,
+        "winStreak": 3,
+        "bestWinStreak": 3,
+        "winRate": 100,
+        "winLossRatio": "∞",
+        "killDeathRatio": 3
+      },
+      {
+        "name": "Battle Royale",
+        "sourceSlot": 30,
+        "kind": "kit",
+        "gamesPlayed": 14,
+        "wins": 14,
+        "losses": 0,
+        "playtimeSeconds": 923,
+        "kills": 14,
+        "deaths": 0,
+        "reportedWinLossRatio": 14,
+        "reportedKillDeathRatio": 14,
+        "winStreak": 14,
+        "bestWinStreak": 14,
+        "winRate": 100,
+        "winLossRatio": "∞",
+        "killDeathRatio": 14
+      },
+      {
+        "name": "Axe",
+        "sourceSlot": 31,
+        "kind": "kit",
+        "gamesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "playtimeSeconds": 0,
+        "kills": 0,
+        "deaths": 0,
+        "reportedWinLossRatio": 0,
+        "reportedKillDeathRatio": 0,
+        "winStreak": 0,
+        "bestWinStreak": 0,
+        "winRate": 0,
+        "winLossRatio": 0,
+        "killDeathRatio": 0
+      },
+      {
+        "name": "Crystal",
+        "sourceSlot": 32,
+        "kind": "kit",
+        "gamesPlayed": 1,
+        "wins": 0,
+        "losses": 1,
+        "playtimeSeconds": 6,
+        "kills": 0,
+        "deaths": 1,
+        "reportedWinLossRatio": 0,
+        "reportedKillDeathRatio": 0,
+        "winStreak": 0,
+        "bestWinStreak": 0,
+        "winRate": 0,
+        "winLossRatio": 0,
+        "killDeathRatio": 0
+      },
+      {
+        "name": "NetherPot",
+        "sourceSlot": 33,
+        "kind": "kit",
+        "gamesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "playtimeSeconds": 0,
+        "kills": 0,
+        "deaths": 0,
+        "reportedWinLossRatio": 0,
+        "reportedKillDeathRatio": 0,
+        "winStreak": 0,
+        "bestWinStreak": 0,
+        "winRate": 0,
+        "winLossRatio": 0,
+        "killDeathRatio": 0
+      },
+      {
+        "name": "Mace",
+        "sourceSlot": 38,
+        "kind": "kit",
+        "gamesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "playtimeSeconds": 0,
+        "kills": 0,
+        "deaths": 0,
+        "reportedWinLossRatio": 0,
+        "reportedKillDeathRatio": 0,
+        "winStreak": 0,
+        "bestWinStreak": 0,
+        "winRate": 0,
+        "winLossRatio": 0,
+        "killDeathRatio": 0
+      },
+      {
+        "name": "UHC",
+        "sourceSlot": 39,
+        "kind": "kit",
+        "gamesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "playtimeSeconds": 0,
+        "kills": 0,
+        "deaths": 0,
+        "reportedWinLossRatio": 0,
+        "reportedKillDeathRatio": 0,
+        "winStreak": 0,
+        "bestWinStreak": 0,
+        "winRate": 0,
+        "winLossRatio": 0,
+        "killDeathRatio": 0
+      },
+      {
+        "name": "Parkour",
+        "sourceSlot": 40,
+        "kind": "kit",
+        "gamesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "playtimeSeconds": 0,
+        "kills": 0,
+        "deaths": 0,
+        "reportedWinLossRatio": 0,
+        "reportedKillDeathRatio": 0,
+        "winStreak": 0,
+        "bestWinStreak": 0,
+        "winRate": 0,
+        "winLossRatio": 0,
+        "killDeathRatio": 0
+      },
+      {
+        "name": "Bridge",
+        "sourceSlot": 41,
+        "kind": "kit",
+        "gamesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "playtimeSeconds": 0,
+        "kills": 0,
+        "deaths": 0,
+        "reportedWinLossRatio": 0,
+        "reportedKillDeathRatio": 0,
+        "winStreak": 0,
+        "bestWinStreak": 0,
+        "winRate": 0,
+        "winLossRatio": 0,
+        "killDeathRatio": 0
+      },
+      {
+        "name": "Sumo",
+        "sourceSlot": 42,
+        "kind": "kit",
+        "gamesPlayed": 0,
+        "wins": 0,
+        "losses": 0,
+        "playtimeSeconds": 0,
+        "kills": 0,
+        "deaths": 0,
+        "reportedWinLossRatio": 0,
+        "reportedKillDeathRatio": 0,
+        "winStreak": 0,
+        "bestWinStreak": 0,
+        "winRate": 0,
+        "winLossRatio": 0,
+        "killDeathRatio": 0
+      }
+    ]
+  }
+}

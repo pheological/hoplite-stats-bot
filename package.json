@@ -1,0 +1,23 @@
+{
+  "name": "minecraft-headless-test-client",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node --env-file=.env src/client.js",
+    "mc:login": "node src/headless.js login",
+    "mc:shell": "node src/headless.js",
+    "mc:start": "node src/headless.js launch --headless --server=hoplite.gg fabric 1.21.11",
+    "check": "node --check src/client.js && node --check src/headless.js && node --check src/game-console.js && node --check src/stats.js && node --check scripts/build-mod.js && node --check src/stat-card.js && node --check src/stats-ui.js && node --check scripts/preview-cards.js && node --check src/minecraft-font.js && node --check scripts/prepare-card-assets.js",
+    "test": "node --test",
+    "mc:build": "node scripts/build-mod.js",
+    "cards:preview": "node scripts/preview-cards.js",
+    "cards:assets": "node scripts/prepare-card-assets.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^1.0.13",
+    "discord.js": "^14.0.0"
+  }
+}

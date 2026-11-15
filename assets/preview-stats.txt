@@ -1,0 +1,135 @@
+Hoplite Battle Royale Stats
+
+[Slot 8] Info
+Info
+Hover over each icon to examine each
+statistic category. The book icons
+display cumulative stats across all the
+games participated in.
+
+The six icons below provide the
+individual stats for each class:
+ Miner
+ Warrior
+ Trapper
+ Archer
+ Looter
+ Fisherman
+
+[Slot 12] Solo Stats
+Solo Stats
+Games Played: 3
+Wins: 1
+Win Streak: 1
+Best Win Streak: 1
+Kills: 16
+Assists: 4
+Playtime: 00:01:11:50
+
+Custom Crafts Crafted: 11
+Legendary Weapons Crafted: 0
+Legendary Weapon Kills: 6
+Average Time Survived: 00:00:23:57
+
+[Slot 13] Civilization Stats
+Civilization Stats
+Games Played: 1
+Wins: 0
+Win Streak: 0
+Best Win Streak: 0
+Kills: 0
+Assists: 0
+Playtime: 00:00:13:16
+
+Custom Crafts Crafted: 1
+Legendary Weapons Crafted: 0
+Legendary Weapon Kills: 0
+Average Time Survived: 00:00:13:16
+
+[Slot 14] Overall Stats
+Overall Stats
+Voicechat Rank: 0 
+Games Played: 4
+Wins: 1
+Win Streak: 1
+Best Win Streak: 1
+Kills: 16
+Assists: 4
+Playtime: 00:01:25:06
+
+Custom Crafts Crafted: 12
+Legendary Weapons Crafted: 0
+Legendary Weapon Kills: 6
+Average Time Survived: 00:00:21:17
+
+[Slot 28] Miner Stats
+Miner Stats
+Wins: 0
+Losses: 3
+Kills: 0
+Deaths: 4
+Assists: 0
+Playtime: 00:00:42:19
+
+W/L Ratio: 0
+K/D Ratio: 0
+
+[Slot 29] Warrior Stats
+Warrior Stats
+Wins: 1
+Losses: 0
+Kills: 16
+Deaths: 1
+Assists: 4
+Playtime: 00:00:42:47
+
+W/L Ratio: ∞
+K/D Ratio: 16
+
+[Slot 30] Trapper Stats
+Trapper Stats
+Wins: 0
+Losses: 0
+Kills: 0
+Deaths: 0
+Assists: 0
+Playtime: 00:00:00:00
+
+W/L Ratio: 0
+K/D Ratio: 0
+
+[Slot 32] Archer Stats
+Archer Stats
+Wins: 0
+Losses: 0
+Kills: 0
+Deaths: 0
+Assists: 0
+Playtime: 00:00:00:00
+
+W/L Ratio: 0
+K/D Ratio: 0
+
+[Slot 33] Looter Stats
+Looter Stats
+Wins: 0
+Losses: 0
+Kills: 0
+Deaths: 0
+Assists: 0
+Playtime: 00:00:00:00
+
+W/L Ratio: 0
+K/D Ratio: 0
+
+[Slot 34] Fisherman Stats
+Fisherman Stats
+Wins: 0
+Losses: 0
+Kills: 0
+Deaths: 0
+Assists: 0
+Playtime: 00:00:00:00
+
+W/L Ratio: 0
+K/D Ratio: 0

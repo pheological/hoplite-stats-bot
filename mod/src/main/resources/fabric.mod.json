@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "hoplite_gui_bridge",
+  "version": "1.0.0",
+  "name": "Hoplite GUI Event Bridge",
+  "description": "Publishes local screen and inventory snapshots to the Discord controller.",
+  "environment": "client",
+  "entrypoints": { "client": ["dev.hoplite.bridge.GuiBridge"] },
+  "mixins": ["hoplite-gui-bridge.mixins.json"],
+  "depends": { "fabricloader": ">=0.19.5", "minecraft": "1.21.11", "java": ">=21", "headlessmc": ">=3.0.1" }
+}
